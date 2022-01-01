@@ -1,0 +1,295 @@
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\P_AMACO.dll.config
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\P_AMACO.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\P_AMACO.pdb
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\csc.exe
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\csc.exe.config
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\csc.rsp
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\csi.exe
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\csi.exe.config
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\csi.rsp
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.AppContext.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Console.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.IO.Compression.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Net.Http.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.ValueTuple.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\vbc.exe
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\vbc.exe.config
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\vbc.rsp
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csprojAssemblyReference.cache
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csproj.CoreCompileInputs.cache
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csproj.CopyComplete
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\obj\Debug\P_AMACO.dll
+C:\Users\Musa Malik\source\repos\P_AMACO\P_AMACO\obj\Debug\P_AMACO.pdb
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\P_AMACO.dll.config
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\P_AMACO.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\P_AMACO.pdb
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\csc.exe
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\csc.exe.config
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\csc.rsp
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\csi.exe
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\csi.exe.config
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\csi.rsp
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.AppContext.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Console.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Net.Http.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\vbc.exe
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\vbc.exe.config
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\vbc.rsp
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csprojAssemblyReference.cache
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csproj.CopyComplete
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\obj\Debug\P_AMACO.dll
+C:\Users\Abdullah\Downloads\P_AMACO(1)\P_AMACO\P_AMACO\obj\Debug\P_AMACO.pdb
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\P_AMACO.dll.config
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\P_AMACO.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\P_AMACO.pdb
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csc.exe
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csc.exe.config
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csc.rsp
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csi.exe
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csi.exe.config
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csi.rsp
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.AppContext.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Console.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Net.Http.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\vbc.exe
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\vbc.exe.config
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\vbc.rsp
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csprojAssemblyReference.cache
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csproj.CopyComplete
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\obj\Debug\P_AMACO.dll
+C:\Users\Abdullah\Downloads\P_AMACO\P_AMACO\P_AMACO\obj\Debug\P_AMACO.pdb
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\P_AMACO.dll.config
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\P_AMACO.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\P_AMACO.pdb
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csc.exe
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csc.exe.config
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csc.rsp
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csi.exe
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csi.exe.config
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\csi.rsp
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.AppContext.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Console.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.IO.Compression.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Net.Http.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.ValueTuple.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\vbc.exe
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\vbc.exe.config
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\vbc.rsp
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\AjaxControlToolkit.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csprojAssemblyReference.cache
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csproj.CoreCompileInputs.cache
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csproj.CopyComplete
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\obj\Debug\P_AMACO.dll
+C:\Users\Musa Malik\Downloads\P_AMACO_V4\P_AMACO\P_AMACO\P_AMACO\obj\Debug\P_AMACO.pdb
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\P_AMACO.dll.config
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\P_AMACO.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\P_AMACO.pdb
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\csc.exe
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\csc.exe.config
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\csc.rsp
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\csi.exe
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\csi.exe.config
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\csi.rsp
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.AppContext.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Console.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.IO.Compression.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Net.Http.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.ValueTuple.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\vbc.exe
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\vbc.exe.config
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\vbc.rsp
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\AjaxControlToolkit.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csprojAssemblyReference.cache
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csproj.CoreCompileInputs.cache
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\obj\Debug\P_AMACO.csproj.CopyComplete
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\obj\Debug\P_AMACO.dll
+C:\Users\Musa Malik\Downloads\P_AMACO\P_AMACO\obj\Debug\P_AMACO.pdb

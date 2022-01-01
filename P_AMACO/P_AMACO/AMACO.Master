@@ -1,0 +1,271 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AMACO.master.cs" Inherits="P_AMACO.AMACO" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>AMACO</title>
+    <meta charset="utf-8" />
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Lobster&family=Montserrat&family=Original+Surfer&family=Pacifico&family=Sacramento&family=Ubuntu+Mono&display=swap" rel="stylesheet" />
+    <script src="js/bootstrap.min.js"></script>
+    <style>
+        /* font-family: 'Lato', sans-serif;
+        font-family: 'Lobster', cursive;
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Original Surfer', cursive;
+        font-family: 'Pacifico', cursive;
+        font-family: 'Sacramento', cursive;
+        font-family: 'Ubuntu Mono', monospace; */
+
+        body {
+            background-color: #edffec;
+        }
+
+        #Navigation {
+            background-color: #e84545;
+            padding-top: 0%;
+            margin: 0%;
+        }
+
+        .navbar {
+            padding: 0px;
+        }
+
+        .navbar-brand {
+            font-family: 'Lobster', cursive;
+            font-size: 30px;
+            padding-right: 20px;
+            font-weight: 600;
+        }
+
+        .nav-item a {
+            font-family: 'Lato', sans-serif;
+            font-size: 15px;
+            margin-right: 14px;
+        }
+
+        .cart:hover {
+            color: #fea82f;
+        }
+
+        /* ----------------------------------------TITLE----------------------------------------- */
+        /*#CompanyDescription {
+                text-align: center;
+                background-color: #d3e0dc;*/
+        /* padding-right: 100px; */
+        /*padding-top: 20px;
+                padding-bottom: 20px;
+            }
+
+            .AMAImage img {
+                width: 100px;
+                height: 150px;
+                color: black;
+            }
+
+            .AMA {
+                margin-top: 1%;
+            }
+
+                .AMA h1 {
+                    font-family: 'Ubuntu Mono', monospace;
+                }
+
+            p {
+                font-family: 'Montserrat', sans-serif;
+            }*/
+
+        /* -------------------------------------------------- */
+        /*#cards {
+                Margin: 20px;
+                text-align: center;
+                padding: 70px 150px
+            }
+
+            .container h1 {
+                font-family: 'Original Surfer', cursive;
+                font-size: 50px;
+                font-style: normal;
+                padding-bottom: 30px;
+            }
+
+            .card {
+                border-radius: 4px;
+                background: #fff;
+                box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+                transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);*/
+        /* padding: 14px 80px 18px 36px; */
+        /*cursor: pointer;
+                margin: 10px;
+            }
+
+                .card:hover {
+                    transform: scale(1.05);
+                    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+                }
+
+            .card-img-top {
+                height: 200px;
+            }
+
+            .product_btn {
+                padding-top: 20px;
+            }
+
+                .product_btn a {
+                    color: black;
+                    border-color: black;
+                }*/
+
+        #footer {
+            color: white;
+            background-color: #393e46;
+            /*padding-top: 20px;
+            padding-bottom: 20px;*/
+            padding:0px;
+        }
+
+        @media (max-width: 575px) {
+
+            body {
+                text-align: center;
+            }
+
+            .AMA {
+                padding-top: 0px;
+            }
+
+            .AMAImage {
+                padding-top: 20px;
+            }
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- -----------------------------------------Navigation Bar Start------------------------------------------- -->
+        <header id="Navigation">
+            <nav class="navbar navbar-expand-lg navbar-light bg-gradient">
+                <div class="container-fluid">
+                    <asp:LinkButton class="navbar-brand" ID="LinkButton1" runat="server">AMACO</asp:LinkButton>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon small"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarToggler">
+                        <ul class="navbar-nav me-auto mb-2 mb-sm-0">
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.aspx"><i class="fas fa-home-lg" style="padding-right: 5px;"></i>Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="Products.aspx"><i class="fas fa-shopping-bag" style="padding-right: 5px;"></i>Products</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-store" style="padding-right: 5px;"></i>
+                                    Shops
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                                    <li><a class="dropdown-item" href="#">Action</a></li>
+                                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                                    <li>
+                                        <hr class="dropdown-divider" />
+                                    </li>
+                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <div class="d-flex">
+                            <i class="far fa-search fa-2x" style="padding-right: 10px;"></i>
+                            <asp:TextBox class="form-control home-search me-2 " ID="TextBox1" TextMode="Search" placeholder="Search" runat="server"></asp:TextBox>
+                            <%--<asp:Button ID="Button1" class="btn btn-outline-success" runat="server" Text="Search" />--%>
+                        </div>
+                        <ul class="navbar-nav">
+                            <li class="nav-item" style="padding-left: 10px;">
+                                <a class="nav-link" href="About.aspx"><i class="fas fa-address-card" style="padding-right: 10px;"></i>About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="Contact.aspx"><i class="far fa-address-book" style="padding-right: 10px;"></i>Contact</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <asp:LinkButton ID="navbarSignupDropdown" class="nav-link btn btn-sm btn-outline-warning dropdown-toggle" runat="server" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-user-plus" style="padding-right: 5px;"></i>Sign UP</asp:LinkButton>
+                                <%--<a class="nav-link btn btn-sm btn-outline-warning dropdown-toggle " href="#" id="navbarSignupDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-user-plus" style="padding-right: 5px;"></i>
+                                    Sign UP
+                                </a>--%>
+                                <ul class="dropdown-menu" aria-labelledby="navbarSignupDropdown">
+                                    <asp:LinkButton ID="LinkButton2" class="dropdown-item" runat="server" PostBackUrl="~/SignUpCustomer.aspx">Sign Up as Customer</asp:LinkButton>
+                                    <%--<li><a class="dropdown-item" href="SignUpCustomer.aspx">Sign Up as Customer</a></li>--%>
+                                    <li>
+                                        <hr class="dropdown-divider" />
+                                    </li>
+                                    <asp:LinkButton ID="LinkButton3" class="dropdown-item" runat="server" PostBackUrl="~/SignUpShopKeeper.aspx">Sign Up as Shop Owner</asp:LinkButton>
+                                    <%--<li><a class="dropdown-item" href="SignUpShopKeeper.aspx">Sign Up as Shop Owner</a></li>--%>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <asp:LinkButton ID="lbLogin" runat="server" class="nav-link btn btn-sm btn-outline-warning" PostBackUrl="~/Login.aspx"><i class="fas fa-sign-in-alt" style="padding-right: 10px;"></i>Log IN</asp:LinkButton>
+                                <%--<a class="nav-link btn btn-sm btn-outline-warning" href="Login.aspx"><i class="fas fa-sign-in-alt" style="padding-right: 10px;"></i>Log IN</a>--%>
+                            </li>
+                            <li>
+                                <asp:LinkButton ID="lbLogout" runat="server" class="nav-link btn btn-sm btn-outline-warning" Visible="False" OnClick="lbLogout_Click"><i class="fas fa-sign-out-alt"></i>Log OUT</asp:LinkButton>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <hr style="border: 2px solid; margin: 0px; color: #325288;" />
+        </header>
+        <!-- ------------------------------------------Navigation Bar End-------------------------------------------- -->
+        <!-- ---------------------------------------------Cart Start------------------------------------------------- -->
+        <div class="d-flex container-fluid flex-row-reverse carts" style= "padding-top: 5px; padding-bottom: 5px;">
+
+            <a class="cart" href="cart.aspx" style="color: #cf0000;"><i class="fas fa-shopping-cart"></i></a>
+            <a href="Account.aspx" style="padding-left: 1%; padding-right: 2%;text-decoration:none;color:black;">
+                <div class="d-flex">
+                    <i class="fas fa-user-circle" style="padding-top: 3px; padding-right: 5px;"></i>
+                    <asp:Label runat="server" id="acc1" style="font-size: 15px; margin: 0;">My Account</asp:Label>
+                </div>
+            </a>
+        </div>
+        <!-- ----------------------------------------------Cart End-------------------------------------------------- -->
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <!-- ----------------------------------------Footer Start---------------------------------------------------- -->
+        <footer>
+            <div id="footer">
+                <div class="container-fluid" style="background-color: #393e46; padding-top: 20px; padding-bottom: 20px;">
+                    <div class="row">
+                        <div class="col-sm" style="text-align: center;">
+                            <img src="./Images/logo.png" style="width: 50px; height: 90px; border: 2px;" />
+                            <h1 style="font-family: 'Times New Roman'; font-size: 25px; padding-top: 2%;">AMACO</h1>
+                        </div>
+                        <div class="col-sm d-flex">
+                            <img src="./Images/vl.png" style="height: 150px;" />
+                        </div>
+                        <div class="col-sm" style="padding-top: 30px;">
+                            <p>Follow us on</p>
+                            <div class="d-flex">
+                                <i class="fab fa-facebook fa-2x" style="padding-right: 20px;"></i>
+                                <i class="fab fa-instagram fa-2x" style="padding-right: 20px;"></i>
+                                <i class="fab fa-twitter fa-2x" style="padding-right: 20px;"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr style="border: 1px solid; margin: 0px; color: black;" />
+                <div style="background-color: #194350; color: whitesmoke; padding-top: 8px; padding-bottom: 8px; text-align: center;">
+                    <p style="font-size: 12px; margin-bottom: 0px;">© Copyright 2021 AMACO</p>
+                </div>
+            </div>
+        </footer>
+        <!-- ----------------------------------------Footer End----------------------------------------------------- -->
+    </form>
+</body>
+</html>
